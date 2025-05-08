@@ -15,7 +15,7 @@ public class SleepIn {
 
     public static void main(String[] args) {
         SleepIn obj = new SleepIn();
-        boolean result = obj.sleepIn(false, false);
-        System.out.println("Podemos dormir? " + result);
+        boolean result = obj.sleepIn(true, true);
+        System.out.println("Posso voltar a dormir? " + result);
     }
 }
