@@ -20,7 +20,7 @@ Aprimorar minhas habilidades em Java através da resolução de problemas de ló
 **3.** Execute os arquivos com método main para testar as soluções
 
 
-🤝 Contato
+##🤝 Contato
 Caso tenha interesse em trocar ideias ou colaborar:
 
 [🔗 Linkedin](https://www.linkedin.com/in/ana-carolina-guimar%C3%A3es-ramos/)
