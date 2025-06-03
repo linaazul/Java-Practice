@@ -7,6 +7,7 @@ Repositório criado para concentrar minhas atividades de prática em Java, desen
 Aprimorar minhas habilidades em Java através da resolução de problemas de lógica, algoritmos e fundamentos da linguagem, explorando conteúdos de sites como:
 
 - [📝 CodingBat](https://codingbat.com/java)
+- [📝 LeetCode](https://leetcode.com/problemset)
 - ...
 
 ## ⚙️ Como executar
